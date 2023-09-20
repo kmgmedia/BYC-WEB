@@ -14,66 +14,6 @@
 
 /* BEGINNING OF HERO SESSION */
 
-.maintext h1 {
-    font-size: 62px;
-    font-weight: 900;
-    line-height: -52.9px;
-    padding: 20% 0% 1% 0%;
-    margin-bottom: 10,
-}
-
-.maintext {
-    padding-top: 5%;
-}
-
-.main-img {
-    padding-top: 20%;
-}
-
-.span {
-    color: #4CAF4F;
-    animation: fadeIn 8s infinite;
-}
-
-.main-img img {
-    padding: 5% 5% 10% 0%;
-    transform: scale(1);
-    width: 130%;
-}
-
-.nav-link {
-    font-size: 15px;
-    font-weight: 700;
-    margin: 15px;
-}
-
 .bg-white {
     box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;;
-}
-
-.btn-register-1 {
-    color: #F5F7FA;
-    background-color: #4CAF4F;
-    border-radius: 5px;
-    outline: none;
-    border: 0;
-    box-shadow: none;
-    cursor: pointer;
-    font-size: 16px;
-    font-weight: 500;
-    padding: 5px 40px;
-}
-
-.btn-register {
-    color: #F5F7FA;
-    background-color: #4CAF4F;
-    border-radius: 5px;
-    outline: none;
-    border: 0;
-    box-shadow: none;
-    cursor: pointer;
-    font-size: 16px;
-    font-weight: 500;
-    padding: 15px 45px;
-    margin-top: 5%;
 }

@@ -47,7 +47,14 @@
 }
 
 
+/* side-by-side */
 
+.side-by-side p {
+    padding-left: 5%;
+    padding-top: 1px;
+    
+}
+/* side-by-side */
 
 
 

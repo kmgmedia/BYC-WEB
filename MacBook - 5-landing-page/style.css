@@ -175,15 +175,20 @@ padding-left: 15rem;
 /* <!--Beginning of explore-session-1 --> */
 
 .explore-session-1 {
-    padding-top: 25%;
+    padding-top: 24%;
     padding-left: 25%;
-    padding-bottom: 28%;
+    padding-bottom: 18%;
     background-color: #F1F1F1;
 }
 
 .explore-session-1 h4 {
     color: #616161;
 }
+
+.explore-session-2 {
+    padding-left: 5rem;
+}
+
 
 .explore-session-1 h1 {
     font-size: 52px;
@@ -194,6 +199,7 @@ padding-left: 15rem;
 .explore-session-1 p {
     font-size: 16px;
     font-weight: 400;
+    padding-bottom: 5rem;
 }
 
 
@@ -216,8 +222,29 @@ padding-left: 15rem;
     padding-top: 6rem;
 }
 
+.explore-session-33 {
+    padding-top: 6rem;
+    padding-left: 5rem;
+}
 
 
+.btn-view-all-l {
+    padding-top: 6rem;
+    padding-left: 42rem;
+    padding-bottom: 4rem;
+}
+
+.btn-view-all-ll {
+    color: #000001;
+    border-radius: 0px;
+    outline: 0px;
+    background-color: none;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 70px;
+}
 
 
 

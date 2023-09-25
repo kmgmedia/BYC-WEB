@@ -12,8 +12,6 @@
 }
 
 
-/* BEGINNING OF NAV BAR*/
-
 #body {
     margin: 0;
     padding: 0;
@@ -26,9 +24,8 @@
     background-color: none
 }
 
-.bg-white {
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;;
-}
+
+/* BEGINNING OF NAV BAR*/
 
 .bg-white {
     box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;;
@@ -46,10 +43,50 @@
     font-weight: 600;
 }
 
+/* Beginning hero text body */
+
+.maintext-all {
+    padding-left: 16rem;
+    text-align: center;
+}
 
 .maintext-1 {
     padding-top: 10rem;
 }
+
+.maintext-1 h1 {
+    font-weight: 700;
+    font-size: 70px;
+    padding-bottom: 2rem;
+}
+
+/* End hero text body */
+
+
+/* Beginning of hero-buttons */
+
+.hero-page-btn-1 {
+    color: #F5F7FA;
+    background-color: #4CAF4F;
+    border-radius: 0px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 15px 75px;
+    /* margin-top: 5%; */
+}
+
+.hero-page-btn-2 {
+
+}
+
+
+/* End of hero-buttons */
+
+
 
 
 /* side-by-side */

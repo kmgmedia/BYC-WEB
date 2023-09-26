@@ -45,9 +45,123 @@
     font-weight: 600;
 }
 
+
+/* <!-- HERO PAGE WORDS SESSION 1 --> */
+
 .maintext-1 {
     padding-top: 10rem;
+    padding-left: 42%;
+    font-weight: 500;
+    padding-bottom: 6rem;
 }
+
+/* <!-- END OF HERO PAGE WORDS SESSION 1 --> */
+
+
+
+/* <!-- Beginning of fashion trend---> */
+
+
+.fashion-trend h3 {
+    font-size: 29px;
+    color: #212121;
+    font-weight: 600;
+}
+
+.fashion-trend p {
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.btn-view-all-1 {
+    color: #000001;
+    border-radius: 0px;
+    outline: 0px;
+    background-color: none;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 5px 10px;
+    padding-bottom: 2rem;
+}
+
+.view-and-like {
+    padding-bottom: 1rem;
+}
+
+
+
+
+/* BEGINNING OF MIDDLE CONTENT AND IMAGE */
+
+.middle-content-image-1 h3 {
+    padding-top: 10rem;
+    font-size: 29px;
+    color: #212121;
+    font-weight: 600;
+}
+
+.middle-content-image-2 img {
+    padding-top: 10rem;
+}
+
+
+
+.middle-content-image-1 p {
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.middle-content-image-2 {
+    padding-bottom: 10rem
+}
+
+
+/* END OF MIDDLE CONTENT AND IMAGE */
+
+/* <!-- End of fashion trend---> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <!-- Beginning of fashion trend---> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

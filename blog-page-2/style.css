@@ -35,6 +35,9 @@
     margin-left: 20px;
 }
 
+.byc-logo {
+    padding-left: 115%;
+}
 
 .navbar-nav {
     font-size: 16px;
@@ -45,6 +48,87 @@
 .maintext-1 {
     padding-top: 10rem;
 }
+
+
+
+/* <!-- Beginning of blog images --> */
+
+
+.view-and-like h6 {
+    padding-top: 1rem;
+    
+}
+
+.view-and-like, .wade-warrens {
+    padding-top: 2rem;
+    /* padding-left: 2rem; */
+}
+
+.add-bg {
+    background-color: #E0E0E0;
+}
+
+/* .view-and-like img {
+    padding-left: 1rem;
+} */
+
+.wade-warrens h3 {
+    font-size: 27px;
+    color: #212121;
+    font-weight: 700;
+}
+
+.wade-warrens p {
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 2rem;
+}
+
+
+.btn-view-all-222 {
+    color: #000001;
+    border-radius: 0px;
+    outline: 0px;
+    background-color: none;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 5px 10px;
+}
+
+
+.btn-view-all-b1 {
+    padding-top: 10rem;
+    padding-left: 42rem;
+    padding-bottom: 4rem;
+}
+
+.btn-view-all-b2 {
+    color: #000001;
+    border-radius: 0px;
+    outline: 0px;
+    background-color: none;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 70px;
+}
+
+/* <!-- End of blog images --> */
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -32,6 +32,10 @@
 }
 
 
+.byc-logo {
+    padding-left: 115%;
+}
+
 .nav-search-icons {
     padding-top: 8px;
     margin-left: 20px;
@@ -345,6 +349,7 @@ padding-left: 15rem;
     padding-top: 3rem;
     padding-left: 40%;
     font-weight: 500;
+    padding-bottom: 6rem;
 }
 
 .maintext-f2 {
@@ -356,24 +361,30 @@ padding-left: 15rem;
 /* <!-- END HERO PAGE WORDS SESSION 3 --> */
 
 
+
 /* <!-- Beginning of blog images --> */
 
-.pho-4 {
-    padding-top: 6rem;
-}
 
 .view-and-like h6 {
     padding-top: 1rem;
+    
 }
 
 .view-and-like, .wade-warrens {
     padding-top: 2rem;
-    padding-left: 2rem;
+    /* padding-left: 2rem; */
 }
 
+.add-bg {
+    background-color: #E0E0E0;
+}
+
+/* .view-and-like img {
+    padding-left: 1rem;
+} */
 
 .wade-warrens h3 {
-    font-size: 33px;
+    font-size: 27px;
     color: #212121;
     font-weight: 700;
 }
@@ -392,14 +403,30 @@ padding-left: 15rem;
     background-color: none;
     box-shadow: none;
     cursor: pointer;
-    font-size: 16px;
-    font-weight: 500;
-    padding: 12px 70px;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 5px 10px;
 }
 
 
 
+.btn-view-all-b1 {
+    padding-top: 10rem;
+    padding-left: 42rem;
+    padding-bottom: 4rem;
+}
 
+.btn-view-all-b2 {
+    color: #000001;
+    border-radius: 0px;
+    outline: 0px;
+    background-color: none;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 70px;
+}
 
 
 

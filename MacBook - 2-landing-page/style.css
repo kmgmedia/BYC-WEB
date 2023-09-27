@@ -46,7 +46,53 @@
     padding-left: 115%;
 }
 
+/* <!-- beginning recently viewed --> */
 
+.rently-option {
+    padding-left: 1rem;
+}
+
+
+.rently-option, .rently-option-h6 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-shadow: #212121;
+}
+
+
+.rently-option-h6 {
+    padding-left: 82%;
+    color: red;
+}
+
+/* <!-- beginning recently viewed --> */
+
+
+/* <!-- Beginning of byc-menboxers-list --> */
+
+
+.mens-list {
+    padding-top: 1rem;
+    
+}
+
+
+.mens-list h4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.mens-list p {
+    font-size: 20px;
+    
+}
+
+.fashion h6 {
+    font-size: 13px;
+    padding-bottom: 1rem;
+}
+/* <!-- End of byc-menboxers-list --> */
 
 
 /* BEGINNING OF FOOTER SESSION */

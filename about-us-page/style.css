@@ -71,13 +71,36 @@
     padding-bottom: 6rem
 }
 
+
+.fashion-trend {
+    padding-top: 7rem;
+}
+
+.fashion-trend h4 {
+    font-size: 33px;
+    font-weight: 600;
+    padding-bottom: 1rem;
+}
+
+.fashion-trend p {
+    font-size: 30px;
+}
+
 /* <!-- END OF HERO PAGE WORDS SESSION 1 --> */
+
+
 
 /* <!-- beginning recently viewed --> */
 
+.rently-option {
+    padding-left: 1rem;
+}
+
 
 .rently-option, .rently-option-h6 {
-    padding-top: 7rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-shadow: #212121;
 }
 
 
@@ -90,6 +113,7 @@
 
 
 /* <!-- Beginning of byc-menboxers-list --> */
+
 
 .mens-list {
     padding-top: 1rem;
@@ -112,18 +136,6 @@
     font-size: 13px;
     padding-bottom: 1rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 /* <!-- End of byc-menboxers-list --> */
 
 

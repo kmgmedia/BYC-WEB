@@ -51,6 +51,53 @@
 
 
 
+/* <!-- HERO PAGE WORDS SESSION 1 --> */
+
+.maintext-1 h2 {
+    padding-top: 3rem;
+    padding-left: 37%;
+    font-weight: 500;
+    padding-bottom: 5rem;
+}
+
+.maintext-2 {
+    padding-top: 3rem;
+    padding-left: 50%;
+    font-weight: 500;
+    padding-bottom: 5rem;
+}
+
+
+.papa-1 p {
+    padding-bottom: 5rem;
+}
+
+.papa p {
+    padding-top: 5rem;
+}
+
+
+/* <!-- Beginning of pagination session --> */
+
+
+.pagination-1 {
+    padding-top: 6rem;
+padding-left: 43%;
+}
+
+
+
+/* <!-- End of pagination session --> */
+
+
+
+
+
+
+
+
+/* <!-- END OF HERO PAGE WORDS SESSION 1 --> */
+
 /* <!-- Beginning of blog images --> */
 
 

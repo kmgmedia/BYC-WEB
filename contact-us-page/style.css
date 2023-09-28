@@ -48,6 +48,65 @@
 }
 
 
+/* <!-- beginning home-contact --> */
+
+.address-contact {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    background-color: #FBFBFB;
+}
+
+
+.home-contact {
+    padding-top: 8rem;
+}
+
+
+.home-contact h2 {
+    padding-top: 3rem;
+    padding-left: 53%;
+    font-size: 33px;
+    font-weight: 700;
+    padding-bottom: 5rem
+}
+
+/* <!-- End home-contact --> */
+
+
+
+/* <!-- Beginning of Map session --> */
+
+.map-location {
+    
+    padding-bottom: 6rem;
+}
+
+/* <!-- End of Map session --> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* <!-- beginning recently viewed --> */
 
 .rently-option {
@@ -67,7 +126,8 @@
     color: red;
 }
 
-/* <!-- beginning recently viewed --> */
+/* <!-- End recently viewed --> */
+
 
 
 /* <!-- Beginning of byc-menboxers-list --> */

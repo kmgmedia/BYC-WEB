@@ -65,7 +65,51 @@
     color: red;
 }
 
-/* <!-- beginning recently viewed --> */
+/* <!-- End recently viewed --> */
+
+/* <!-- beginning home-contact --> */
+
+.address-contact {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    background-color: #FBFBFB;
+}
+
+
+.address-contact h4 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+
+.address-contact p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+
+.home-contact {
+    padding-top: 8rem;
+}
+
+
+.home-contact h2 {
+    padding-top: 3rem;
+    padding-left: 53%;
+    font-size: 33px;
+    font-weight: 700;
+    padding-bottom: 5rem
+}
+
+/* <!-- End home-contact --> */
+
+
+
+
+
+
+
 
 
 /* <!-- Beginning of byc-menboxers-list --> */

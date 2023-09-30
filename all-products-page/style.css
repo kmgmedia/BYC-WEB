@@ -46,6 +46,17 @@
 }
 
 
+/* <!-- Beginning of Hamburger  --> */
+
+.hamburger {
+    padding-left: 87%;
+    padding-top: 1rem;
+}
+
+
+/* <!-- End of Hamburger  --> */
+
+
 /* <!-- beginning recently viewed --> */
 
 .rently-option {
@@ -67,6 +78,21 @@
 
 /* <!-- End recently viewed --> */
 
+
+
+
+/* <!-- Beginning of pagination session --> */
+
+
+.pagination-1 {
+    padding-top: 30rem;
+padding-left: 43%;
+}
+/* <!-- End of pagination session --> */
+
+
+
+
 /* <!-- beginning home-contact --> */
 
 .address-contact {
@@ -75,39 +101,29 @@
     background-color: #FBFBFB;
 }
 
-
-.address-contact h4 {
-    font-size: 22px;
-    font-weight: 700;
+.shadow-5 {
+    padding-top: 1rem;
+    padding-left: 35%;
 }
-
-
-.address-contact p {
-    font-size: 20px;
-    font-weight: 400;
-}
-
-
 
 .home-contact {
     padding-top: 8rem;
-}
-
-
-.home-contact h2 {
-    padding-top: 3rem;
-    padding-left: 53%;
-    font-size: 33px;
-    font-weight: 700;
-    padding-bottom: 5rem
 }
 
 /* <!-- End home-contact --> */
 
 
 
+/* <!-- Beginning of Hamburger  --> */
 
 
+
+
+
+
+
+
+/* <!-- End of Hamburger  --> */
 
 
 
@@ -137,9 +153,43 @@
     color: #787885;
     padding-bottom: 1rem;
 }
+
+
+.wishlist {
+    color: #BD3A3A;
+    background-color: #ffffff;
+    border-radius: 8px;
+    outline: 10px;
+    border: 10;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 7px 10px;
+}
+
+
+.buynow {
+
+    color: #F5F7FA;
+    background-color: #BD3A3A;
+    border-radius: 8px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 10px;
+}
+
+
+
+
+
+
+
 /* <!-- End of byc-menboxers-list --> */
-
-
 
 
 

@@ -46,6 +46,27 @@
     padding-left: 115%;
 }
 
+
+/* <!-- beginning home-camisole --> */
+
+.address-contact {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    background-color: #FBFBFB;
+}
+
+.shadow-5 {
+    padding-top: 1rem;
+    padding-left: 35%;
+}
+
+.home-camisole {
+    padding-top: 8rem;
+}
+
+/* <!-- End home-camisole --> */
+
+
 /* <!-- beginning recently viewed --> */
 
 .rently-option {
@@ -65,7 +86,25 @@
     color: red;
 }
 
-/* <!-- beginning recently viewed --> */
+/* <!-- End recently viewed --> */
+
+
+/* <!-- Beginning of Hamburger  --> */
+
+
+.hamburger-1 {
+    padding-left: 143%;
+    padding-top: 1rem;
+}
+
+.hamburger-2 {
+    padding-left: 73%;
+    padding-top: 1rem;
+}
+
+
+/* <!-- End of Hamburger  --> */
+
 
 
 /* <!-- Beginning of byc-menboxers-list --> */
@@ -93,7 +132,39 @@
     color: #787885;
     padding-bottom: 1rem;
 }
+
+
+.wishlist {
+    color: #BD3A3A;
+    background-color: #ffffff;
+    border-radius: 8px;
+    outline: 10px;
+    border: 10;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 7px 10px;
+}
+
+
+.buynow {
+
+    color: #F5F7FA;
+    background-color: #BD3A3A;
+    border-radius: 8px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 10px;
+}
+
+
 /* <!-- End of byc-menboxers-list --> */
+
 
 
 /* BEGINNING OF FOOTER SESSION */

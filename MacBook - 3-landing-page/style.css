@@ -47,26 +47,84 @@
     padding-left: 115%;
 }
 
-/* <!-- beginning recently viewed --> */
 
-.rently-option {
+/* <!-- beginning home-men-boxers --> */
+
+.address-contact {
+    padding-top: 3rem;
+    padding-bottom: 6rem;
+    background-color: #FBFBFB;
+}
+
+.shadow-5 {
+    padding-top: 1rem;
+    padding-left: 35%;
+}
+
+.home-men-boxers {
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+}
+
+.inred {
+    color: #D7000F;
+}
+
+
+.wishlist {
+    color: #BD3A3A;
+    background-color: #ffffff;
+    border-radius: 8px;
+    outline: 10px;
+    border: 10;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 7px 10px;
+}
+
+
+.buynow {
+
+    color: #F5F7FA;
+    background-color: #BD3A3A;
+    border-radius: 8px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 10px;
+}
+
+
+
+/* <!-- End home-men-boxers --> */
+
+
+
+/* <!-- beginning boxers --> */
+
+.boxers-option {
     padding-left: 1rem;
 }
 
 
-.rently-option, .rently-option-h6 {
+.boxers-option, .boxers-option-h6 {
     padding-top: 1rem;
     padding-bottom: 1rem;
     box-shadow: #212121;
 }
 
 
-.rently-option-h6 {
+.boxers-option-h6 {
     padding-left: 82%;
     color: red;
 }
 
-/* <!-- beginning recently viewed --> */
+/* <!-- beginning boxers --> */
 
 
 /* <!-- Beginning of byc-menboxers-list --> */
@@ -95,6 +153,21 @@
     padding-bottom: 1rem;
 }
 /* <!-- End of byc-menboxers-list --> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

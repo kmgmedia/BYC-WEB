@@ -506,8 +506,115 @@ padding-left: 15rem;
 }
 
 .pho-2 {
+    padding-top: 1rem;
+    padding-right: 0rem;
+}
+
+.pho-3 {
+    padding: 0;
+    padding-top: 2rem;
+    
+}
+
+.pho-1 img {
+    width: 100%;
     padding-top: 2rem;
 }
+
+.maintext-2 {
+    padding-left: 0%;
+    text-align: center;
+}
+
+.phot-2 img {
+    width: 100%;
+}
+
+.btn-view-all-11 {
+    padding-left: 0;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+.btn-view-all-1 {
+    padding: 10px, 60px;
+}
+
+.explore-session-1 {
+    padding-left: 2rem;
+    padding-right: 1rem;
+    padding-top: 4rem;
+}
+
+
+.explore-session-1 h4 {
+    font-size: 20px;
+}
+
+.explore-session-1 h1 {
+    font-size: 37px;
+}
+
+.explore-session-1 p {
+    padding-bottom: 2rem;
+}
+
+.explore-session-2 {
+    padding-left: 0;
+    padding-top: 5rem;
+}
+
+.explore-session-2 img {
+    width: 20rem;
+}
+
+.explore-session-3 {
+    padding-top: 4rem;
+}
+
+.explore-session-3 img {
+    width: 20rem;
+}
+
+.explore-session-33 {
+    padding-top: 4rem;
+    padding-left: 0;
+}
+
+.explore-session-33 img {
+    width: 20rem;
+}
+
+.btn-view-all-l {
+    padding-top: 4rem;
+    padding-left: 0;
+}
+
+.maintextt-2 {
+    padding-left: 5%;
+    padding-top: 0;
+}
+
+.for-woman-man-click {
+    padding-left: 3%;
+    padding-top: 4rem;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

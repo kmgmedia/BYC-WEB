@@ -459,3 +459,50 @@ padding-left: 15rem;
 }
 
 /* END OF FOOTER SESSION */
+
+
+
+@media (min-width: 320px) and (max-width: 667px) {
+
+    
+    .navbar-nav {
+        font-display: none;
+    }
+
+.maintext-all {
+    padding-left: 0;
+}
+
+.maintext-1 {
+    padding-top: 15rem;
+}
+
+.maintext-1 h3 {
+    font-size: 20px;
+}
+
+.maintext-1 h1 {
+    font-size: 42px;
+}
+
+.hero-page-btn-1 {
+    padding: 11px 111px;
+    align-items: center;
+    margin-right: 0px;
+}
+
+.hero-page-btn-2 {
+    padding: 12px 111px;
+    margin-top: 1rem;
+}
+
+.navbar-nav .nav-link {
+    display: none;
+}
+
+
+
+
+
+
+}

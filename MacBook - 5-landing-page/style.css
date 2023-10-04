@@ -474,7 +474,7 @@ padding-left: 15rem;
 }
 
 .maintext-1 {
-    padding-top: 15rem;
+    padding-top: 10rem;
 }
 
 .maintext-1 h3 {
@@ -500,8 +500,14 @@ padding-left: 15rem;
     display: none;
 }
 
+.all-hero-img {
+    padding-left: 0px;
+    
+}
 
-
+.pho-2 {
+    padding-top: 2rem;
+}
 
 
 

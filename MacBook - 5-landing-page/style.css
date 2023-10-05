@@ -619,15 +619,28 @@ padding-left: 15rem;
     padding-top: 2rem;
 }
 
+.arrow-2 {
+    padding-top: 2rem;
+}
 
+.btn-view-all-a1 {
+    padding-top: 4rem;
+    padding-left: 0px;
+    padding-bottom: 2rem;
+}
 
+.maintext-f2 {
+    padding-left: 1rem;
+    padding-bottom: 4rem;
+}
 
+.maintext-f2 h2 {
+    font-size: 28px;
+}
 
-
-
-
-
-
+.pho-3-1 img {
+    width: 2rem;
+}
 
 
 

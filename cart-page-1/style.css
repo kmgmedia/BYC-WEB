@@ -75,12 +75,19 @@
     padding-top: 5rem;
 }
 
-
 .home-cart {
     padding-top: 8rem;
 }
-
 /* <!-- end of selected-items --> */
+
+
+/* <!-- beginning of product description --> */
+.product-begin {
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    padding-bottom: 3%;
+}
+
+/* <!-- beginning of product description --> */
 
 
 

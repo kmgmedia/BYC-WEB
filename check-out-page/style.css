@@ -54,8 +54,23 @@
     padding-top: 10rem;
 }
 
-
 /* <!-- end of order summary --> */
+
+
+
+.btn-modify {
+    color: #F5F7FA;
+    background-color: #BD3A3A;
+    border-radius: 8px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 60px;
+}
+
 
 
 

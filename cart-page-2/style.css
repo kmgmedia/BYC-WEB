@@ -78,11 +78,24 @@
     padding-top: 3rem;
 }
 
+.Cart-total {
+    padding-left: 65rem;
+}
 
 
 
-
-
+.btn-1 {
+    color: #F5F7FA;
+    background-color: #BD3A3A;
+    border-radius: 8px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 60px;
+}
 
 
 

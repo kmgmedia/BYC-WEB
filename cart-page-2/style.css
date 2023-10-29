@@ -104,7 +104,6 @@
     background-color: #ffffff;
     border-radius: 8px;
     outline: none;
-    border: 4;
     border-color: #BD3A3A;
     box-shadow: none;
     cursor: pointer;
@@ -128,6 +127,15 @@
     padding: 11px 60px;
 }
 
+
+.pluss, .minuss {
+    color: #F5F7FA;
+    background-color: #BD3A3A;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    padding: 5px 12px;
+}
 
 /* <!-- End of cart body --> */
 

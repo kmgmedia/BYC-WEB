@@ -57,9 +57,17 @@
 
 /* <!-- Beginning of Map session --> */
 
-.map-location {
-    
-    padding-bottom: 6rem;
+.google-map {
+    padding-bottom: 70px;
+    position: relative;
+}
+
+.google-map iframe {
+    /* height: 100%; */
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
 }
 
 /* <!-- End of Map session --> */
@@ -199,3 +207,11 @@
 }
 
 /* END OF FOOTER SESSION */
+
+
+
+@media screen and (max-width:992px){
+    br{
+        display: none;
+    }
+}

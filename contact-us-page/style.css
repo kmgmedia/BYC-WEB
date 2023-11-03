@@ -26,18 +26,23 @@
     background-color: none
 }
 
-.bg-white {
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
-}
-
 
 .shadow {
     box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
 }
 
+
+.bg-white {
+    box-shadow: rgba(196, 196, 196, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;;
+}
+
 .nav-search-icons {
     padding-top: 8px;
     margin-left: 20px;
+}
+
+.nav-link {
+    color: #212121 !important;
 }
 
 
@@ -208,10 +213,3 @@
 
 /* END OF FOOTER SESSION */
 
-
-
-@media screen and (max-width:992px){
-    br{
-        display: none;
-    }
-}

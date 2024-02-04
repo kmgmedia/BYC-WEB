@@ -1,7 +1,6 @@
 {
   "name": "byc-web",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +8,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "express": "^4.18.2",
     "joi": "^17.11.1",
     "mongodb": "^6.3.0",
     "mongoos": "^0.0.1-security",
-    "mongose": "^0.0.2-security"
-  }
+    "mongoose": "^8.1.1",
+    "mongose": "^0.0.2-security",
+    "node": "^21.6.1"
+  },
+  "keywords": [],
+  "description": ""
 }

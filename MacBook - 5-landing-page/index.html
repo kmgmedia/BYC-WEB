@@ -14,6 +14,12 @@
     <!-- bootstrap css -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
+    <!-- Google Fonts link For Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined"
+    rel="stylesheet">
+
+    <script src="script.js" defer></script>
+
 
 </head>
 <body class="bg-color">
@@ -411,17 +417,13 @@
 <!-- BEGINNING OF HERO IMAGES SESSION 2 -->
 
 <section>
-    <div class="row">
+    <div class="row slider-wrapper">
     <div class="col-sm-12 col-md-12 col-lg-1"></div>
     <div class="col-sm-12 col-md-12 col-lg-10">
-        <div class="row pl-5">
-            <div class="col-sm-12 col-md-12 col-lg-1 col-xl-1">
-                <div class="arrow-1">
-                    <img src="images/Arrow_left.svg" alt="">
-                </div>
-            </div>
+        <button id="prev-slide" class="slide-button material-icons-outlined">chevron_left</button>
+        <div class="row image-list">
             <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3">
-                <div class=".pho-3-1">
+                <div class="pho-3-1">
                     <img src="images/Card.png" alt="">
                     <div class="side-by-side d-flex ">
                         <h5>
@@ -435,7 +437,7 @@
                 </div>
             </div>
             <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3">
-                <div class=".pho-3-1">
+                <div class="pho-3-1">
                     <img src="images/Card (1).png" alt="">
                     <div class="side-by-side d-flex ">
                         <h5>
@@ -449,7 +451,7 @@
                 </div>
             </div>
             <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3">
-                <div class=".pho-3-1">
+                <div class="pho-3-1">
                     <img src="images/Card (2).png" alt="">
                     <div class="side-by-side d-flex ">
                         <h5>
@@ -462,10 +464,26 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-12 col-lg-1 col-xl-1">
-                <div class="arrow-2">
-                    <img src="images/Arrow_Right.svg" alt="">
-                </div>
+            <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                <div class="pho-3-1">
+                    <img src="images/Card (2).png" alt="">
+                    <div class="side-by-side d-flex ">
+                        <h5>
+                            WOWEN PANTS
+                        </h5>
+                        <p>BYC-501LMS</p>
+                    </div>
+                    <div class="amount">
+                        <h6>₦2,800.00</h6>
+                    </div>
+                </div> 
+            </div>
+            <button id="next-slide" class="slide-button material-icons-outlined">chevron_right</button>
+        </div>
+        
+        <div class="slider-scrollbar">
+            <div class="scrollbar-track">
+                <div class="scrollbar-thumb"></div>
             </div>
         </div>
     </div>

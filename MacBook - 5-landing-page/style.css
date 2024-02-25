@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700;800;900&display=swap');
 
+
+
 @font-face {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     src: url();
@@ -250,7 +252,7 @@ padding-left: 15rem;
     cursor: pointer;
     font-size: 16px;
     font-weight: 500;
-    padding: 12px 70px;
+    padding: 10px 40px;
 }
 
 /* <!-- End of explore-session-3 --> */
@@ -302,29 +304,100 @@ padding-left: 15rem;
 
 /* <!-- BEGINNING OF HERO IMAGES SESSION 2 --> */
 
-.arrow-1 {
-    padding-top: 150%;
-}
-
-.arrow-2 {
-    padding-top: 150%;
-    padding-left: 5rem;
-}
-
-.side-by-side {
-    padding-left: 1rem;
-}
-
 .amount {
     padding-left: 1rem;
 }
 
+.image-list .pho-3-1 .side-by-side {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
+
 .pho-3-1 {
     padding-left: 2rem;
-    padding-top: 70%;
+    padding-top: 1%;
+    padding-bottom: 1rem;
+}
+
+.image-list {
+    padding-bottom: 2rem;
+}
+
+.slider-wrapper .slider-scrollbar {
+    height: 24px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.slider-scrollbar .scrollbar-track {
+    height: 2px;
+    width: 100%;
+    background: #ccc;
+    position: relative;
+    border-radius: 4px;
+}
+
+.slider-wrapper {
+    position: relative;
+}
+
+.slider-wrapper .slide-button {
+    position: absolute;
+    top: 40%;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    border: none;
+    outline: none;
+    background: #000;
+    font-size: 2.2rem;
+    cursor: pointer;
+    border-radius: 50%;
+    transform: translateY(-50%);
 }
 
 
+.slider-wrapper .slide-button:hover {
+    background: #444;
+}
+
+.slider-wrapper .slide-button#prev-slide {
+    left: -20px;
+    display: none;
+}
+
+.slider-wrapper .slide-button#next-slide {
+    right: -20px;
+}
+
+.slider-scrollbar:hover .scrollbar-track  {
+    height: 4px;
+}
+
+.slider-scrollbar .scrollbar-thumb {
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    background: #000;
+    border-radius: inherit;
+    cursor: grab;
+}
+
+.slider-scrollbar .scrollbar-track:active {
+    cursor: grabbing;
+    height: 8px;
+    top: -2px;
+}
+
+.slider-scrollbar .scrollbar-thumb::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -10px;
+    bottom: -10px;
+}
 
 
 /* <!-- END OF HERO IMAGES SESSION 2 --> */
@@ -471,7 +544,7 @@ padding-left: 15rem;
 
 
 
-@media (min-width: 320px) and (max-width: 667px) {
+@media (min-width: 320px) and (max-width: 990px) {
 
     
     .navbar-nav {
@@ -574,7 +647,7 @@ padding-left: 15rem;
 }
 
 .explore-session-2 img {
-    width: 20rem;
+    width: 19rem;
 }
 
 .explore-session-3 {
@@ -582,7 +655,7 @@ padding-left: 15rem;
 }
 
 .explore-session-3 img {
-    width: 20rem;
+    width: 19rem;
 }
 
 .explore-session-33 {
@@ -591,11 +664,11 @@ padding-left: 15rem;
 }
 
 .explore-session-33 img {
-    width: 20rem;
+    width: 19rem;
 }
 
 .btn-view-all-l {
-    padding-top: 4rem;
+    padding-top: 3rem;
     padding-left: 0;
 }
 
@@ -639,27 +712,17 @@ padding-left: 15rem;
     font-size: 28px;
 }
 
-.pho-3-1 img {
+/* .pho-3-1 img {
     width: 2rem;
+} */
+
+.pl-5, .px-5 {
+    padding-left: 0px;
 }
 
 
 
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

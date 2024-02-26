@@ -64,6 +64,7 @@
     font-weight: 700;
     font-size: 70px;
     padding-bottom: 1rem;
+    padding-right: 15rem;
 }
 
 /* End hero text body */
@@ -133,6 +134,63 @@ padding-left: 15rem;
     color: #212121;
     font-weight: 600;
 }
+
+.box {
+    opacity: 0;
+    position: absolute;
+    padding-left: 1rem;
+}
+
+.b1 {
+    animation: ani1 15s infinite;
+}
+
+.b2 {
+    animation: ani2 15s infinite;
+}
+
+.b3 {
+    animation: ani3 15s infinite;
+}
+
+@keyframes ani1 {
+    0%{
+        opacity: 0;
+    }
+    10%{
+        opacity: 1;
+    }
+    20%{
+        opacity: 0;
+    }
+}
+
+@keyframes ani2 {
+    20%{
+        opacity: 0;
+    }
+    30%{
+        opacity: 1;
+    }
+    40%{
+        opacity: 0;
+    }
+}
+
+@keyframes ani3 {
+    40%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    60%{
+        opacity: 0;
+    }
+}
+
+
+
 
 /* <!-- END PAGE WORDS SESSION 2 --> */
 
@@ -588,7 +646,7 @@ padding-left: 15rem;
 @media (min-width: 320px) and (max-width: 990px) {
 
     
-    .navbar-nav {
+    /* .navbar-nav {
         font-display: none;
     }
 
@@ -606,6 +664,10 @@ padding-left: 15rem;
 
 .maintext-1 h1 {
     font-size: 42px;
+}
+
+.maintext-1 h1 span {
+    display: none;
 }
 
 .hero-page-btn-1 {
@@ -753,20 +815,11 @@ padding-left: 15rem;
     font-size: 28px;
 }
 
-/* .pho-3-1 img {
-    width: 2rem;
-} */
 
 .pl-5, .px-5 {
     padding-left: 0px;
-}
+} */
 
 
 
-}
-
-
-
-br{
-    display: none;
 }
